@@ -4,7 +4,7 @@ A database-driven parking lot management system designed for **real-time slot tr
 
 ---
 
-## 📌 Overview
+## Overview
 This project models the core workflow of a parking facility:
 - Register vehicles entering/exiting
 - Track parking slot availability
@@ -13,7 +13,7 @@ This project models the core workflow of a parking facility:
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - Relational database design for parking operations (see ER diagram)
 - SQL script to create schema + constraints and run core operations
 - Supports operational queries for:
