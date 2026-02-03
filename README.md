@@ -2,11 +2,6 @@
 
 A database-driven parking lot management system designed for **real-time slot tracking** and **payment/billing automation** using **MySQL**.
 
-> Repo includes:
-> - `Parking_Management.sql` (schema + queries)
-> - `ER_diagram.png` (data model)
-> - Project report PDF
-
 ---
 
 ## 📌 Overview
@@ -34,16 +29,3 @@ This project models the core workflow of a parking facility:
 - ER modeling (schema design)
 
 ---
-
-## 📂 Files
-- `Parking_Management.sql` — database schema + core queries
-- `ER_diagram.png` — entity-relationship model of the system
-- `BUAN 6320 Group project.pdf` — project documentation/report
-
----
-
-## ▶️ How to Run (Local)
-1. Create a database in MySQL:
-   ```sql
-   CREATE DATABASE parking_management;
-   USE parking_management;
