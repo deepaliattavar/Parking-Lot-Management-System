@@ -1,4 +1,4 @@
-# 🅿️ Parking Lot Management System (MySQL)
+# Parking Lot Management System (MySQL)
 
 A database-driven parking lot management system designed for **real-time slot tracking** and **payment/billing automation** using **MySQL**.
 
